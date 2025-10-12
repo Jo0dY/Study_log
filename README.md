@@ -1,3 +1,5 @@
+<img width="1206" height="331" alt="Image" src="https://github.com/user-attachments/assets/f036d100-2231-4f25-9f7c-159f0d0ded7f" />
+
 # 공부 기록 리포지토리
 
 ---
